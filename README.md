@@ -1,5 +1,5 @@
 ## Welcome to my page 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HenvagDev:+Information+Science+Student;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HenvagDev:;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **Henvag/Henvag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
