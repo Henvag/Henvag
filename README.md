@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my page 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+studying+Information+science;Henvag)](https://git.io/typing-svg)
 <!--
 **Henvag/Henvag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
