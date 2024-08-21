@@ -13,7 +13,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Henvag/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 </p>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@be8c11af-8e1c-454f-9983-107c12d0bc47/a4631539-ae9d-4d64-8591-61cbfbb5b45a.svg"></embed></figure>
+
 
 <!--
 **Henvag/Henvag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
