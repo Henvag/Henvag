@@ -28,4 +28,4 @@
 
 ---
 
-💡 Currently exploring new technologies and building projects to expand my skillset
+💡 Currently exploring new technologies and building projects with them
