@@ -1,10 +1,11 @@
-## HenvagDev 
+## Hi there, I'm HenvagDev 👋
+
+<h1 align="center">HenvagDev</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Science+Student;Check+out+my+projects!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=380&lines=Information+Science+Student;Check+out+my+projects!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -40,4 +41,4 @@
 
 ---
 
-Currently exploring new technologies and building projects with them
+💡 Currently exploring new technologies and building projects to expand my skillset
