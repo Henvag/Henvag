@@ -28,8 +28,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/168152666?s=200&v=4" alt="Cursor" width="40" height="40"/>
-<img src="https://seeklogo.com/images/R/render-logo-818EFB75E8-seeklogo.com.png" alt="Render" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Cursor_logo.png" alt="Cursor" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/render.svg" alt="Render" width="40" height="40"/>
 </p>
 
 ---
