@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Science+Student;Check+out+my+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Science+Student;Check+out+my+projects!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,4 +40,4 @@
 
 ---
 
-💡 Currently exploring new technologies and building projects to expand my skillset
+Currently exploring new technologies and building projects with them
